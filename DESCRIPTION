@@ -32,6 +32,6 @@ Imports:
     vctrs,
     zeallot
 Remotes: 
-    hadley/emo,
     r-lib/rlang,
+    hadley/emo,
     cderv/knitr@travis-fold
