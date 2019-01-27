@@ -13,11 +13,6 @@ bibliography: book.bib
 link-citations: yes
 ---
 
-```{r, message=FALSE}
-message(">>> setting progress option\n")
-knitr::opts_knit$set(progress = FALSE)
-```
-
 `r if (knitr::is_latex_output()) '<!--'` 
 
 # Welcome {-}
