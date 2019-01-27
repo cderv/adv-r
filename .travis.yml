@@ -12,7 +12,7 @@ before_script:
 - mkdir ~/.R
 - cp Makevars ~/.R
 script:
-- Rscript -e 'bookdown::render_book("index.Rmd", quiet = TRUE)'
+- Rscript -e 'bookdown::render_book("index.Rmd")'
 
 matrix:
   include:
