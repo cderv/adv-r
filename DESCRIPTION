@@ -34,4 +34,4 @@ Imports:
 Remotes: 
     r-lib/rlang,
     hadley/emo,
-    cderv/knitr@travis-fold
+    cderv/bookdown@travis-fold
